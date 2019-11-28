@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vinnykfrancis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vkfrancis.github.io
+  * I am vinnykfrancis (https://keybase.io/vinnykfrancis) on keybase.
+  * I have a public key ASCl034Qn0hHzMlWg45FvVkvyu5WRTERQQavP2jvjaDmdQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a5d37e109f4847ccc956838e45bd592fcaee564531114106af3f68ef8da0e6750a",
+      "host": "keybase.io",
+      "kid": "0120a5d37e109f4847ccc956838e45bd592fcaee564531114106af3f68ef8da0e6750a",
+      "uid": "ca366f0da64fb1d55e87fbbb463f5f19",
+      "username": "vinnykfrancis"
+    },
+    "merkle_root": {
+      "ctime": 1574956816,
+      "hash": "66131cbb898b185b017a618033a616597c7c90d951e4afc91018633270cad2e699419697471ebcd91e3522333a9a10da36e9fea3c0371cb27e9e91c6fe3909cb",
+      "hash_meta": "b51fbc940119e9d4690297f389166aea388b7dc1551af0fa30f56d7b1813da44",
+      "seqno": 11199634
+    },
+    "service": {
+      "entropy": "+WZzVvyIQJT5fuGcixsJ5Zoy",
+      "hostname": "vkfrancis.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1574956835,
+  "expire_in": 504576000,
+  "prev": "9b7a010990232514ef3affe242e16b80317bc23ae64763674f90cb8c999e110d",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpdN+EJ9IR8zJVoOORb1ZL8ruVkUxEUEGrz9o742g5nUKp3BheWxvYWTESpcCBsQgm3oBCZAjJRTvOv/iQuFrgDF7wjrmR2NnT5DLjJmeEQ3EIDCzuVUqJEQDwSZ9es+uVleCk/LNeS6r8jK7brgsokhmAgHCo3NpZ8RAfd3mf5skCYyFXqGsaY/XTq3YNI5UH6q2INlhe1P80K/XXMR2bUKeSNJQxkPWd3cJtUvt13h3DPOjM0W70JNrA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKLGsa1oT8KQ9S/UhQxRsqmlWVS/CiXszMZOfr0v8xvDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vinnykfrancis
+
+==================================================================
